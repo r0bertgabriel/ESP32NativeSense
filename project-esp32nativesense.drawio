@@ -16,6 +16,9 @@
         <mxCell id="odnRtmk4GXlHIVH-FQWG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;" parent="1" source="odnRtmk4GXlHIVH-FQWG-16" target="odnRtmk4GXlHIVH-FQWG-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="tFevhrRDM70K9tsWemct-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="odnRtmk4GXlHIVH-FQWG-16" target="tFevhrRDM70K9tsWemct-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="odnRtmk4GXlHIVH-FQWG-16" value="Análise" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontFamily=Garamond;fontSize=10;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="10" y="120" width="120" height="60" as="geometry" />
         </mxCell>
@@ -42,6 +45,9 @@
         </mxCell>
         <mxCell id="tFevhrRDM70K9tsWemct-3" value="&lt;div&gt;O que a gente quer?&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontFamily=Garamond;fontSize=10;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="200" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tFevhrRDM70K9tsWemct-5" value="Como será a estrutura e comportamento?" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontFamily=Garamond;fontSize=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="210" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
