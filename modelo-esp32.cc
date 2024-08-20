@@ -1,3 +1,5 @@
+// NAO FOI TESTADO AINDA
+
 // Código Banco de dados com Google planilhas com ESP - Vida de Silício
 
 #include <ESP8266WiFi.h> 
