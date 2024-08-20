@@ -1,6 +1,6 @@
 // NAO FOI TESTADO AINDA
-
-// Código Banco de dados com Google planilhas com ESP - Vida de Silício
+// RODA COM  ESP8266 ou ESP32, SÓ MUDAR O INCLUDE
+// Código Banco de dados com Google planilhas com ESP - 
 
 #include <ESP8266WiFi.h> 
 // Alterar a linha anterior por #include <WiFi.h> se estiver usando ESP32
