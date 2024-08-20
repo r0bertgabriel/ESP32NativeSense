@@ -7,7 +7,7 @@
         <mxCell id="odnRtmk4GXlHIVH-FQWG-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;" edge="1" parent="1" source="odnRtmk4GXlHIVH-FQWG-12" target="odnRtmk4GXlHIVH-FQWG-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="odnRtmk4GXlHIVH-FQWG-12" value="&amp;nbsp;Config Esp32" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontFamily=Garamond;fontSize=10;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="odnRtmk4GXlHIVH-FQWG-12" value="&amp;nbsp;Config das&lt;div&gt;placas IoT&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;curveFitting=1;jiggle=2;labelBackgroundColor=none;fontFamily=Garamond;fontSize=10;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="10" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="odnRtmk4GXlHIVH-FQWG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;" edge="1" parent="1" source="odnRtmk4GXlHIVH-FQWG-16" target="odnRtmk4GXlHIVH-FQWG-18">
