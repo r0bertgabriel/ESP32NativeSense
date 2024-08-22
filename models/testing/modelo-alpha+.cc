@@ -1,3 +1,5 @@
+// FUNCIONOU!
+
 // Verifica se está compilando para ESP32 ou ESP8266 e inclui a biblioteca adequada
 #ifdef ESP32
   #include <WiFi.h>
